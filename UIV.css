@@ -1,0 +1,41 @@
+#Zip-Code {
+    display: none;
+}
+#submit {
+    display: none;
+}
+#secretmessage {
+    display: none;
+}
+body {
+    background-color: #99DDFF;
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+
+}
+#form {
+   height: auto;
+   width: 500px;
+    background-color: #3FD2C7;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #37958e;
+}
+h1 {
+    color: blue;
+}
+.form {
+padding-left: 100px;
+
+}
+
+label{
+    color: #00458B;
+    font-size: 15px;
+    padding-top: 35px;
+
+}
+input {
+    margin: 10px 0px;
+}
